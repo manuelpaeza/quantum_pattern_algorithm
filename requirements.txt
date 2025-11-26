@@ -1,0 +1,7 @@
+ipykernel
+jupyter
+matplotlib 
+mthree 
+numpy
+qiskit
+qiskit-ibm-runtime
